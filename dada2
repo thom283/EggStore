@@ -1,7 +1,8 @@
 {
-  "4name": "test",
-  "4url": "https://files.catbox.moe/434r4r.png",
-  "4apk": "https://files.catbox.moe/evunbv.apk",
-  "4v": "6.0+",
-  "4dec": "google app google"
+  "length": "1",
+  "1name": "test",
+  "1url": "https://files.catbox.moe/434r4r.png",
+  "1apk": "https://files.catbox.moe/evunbv.apk",
+  "1v": "6.0+",
+  "1dec": "google app google"
 }
