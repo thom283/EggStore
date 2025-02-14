@@ -1,0 +1,16 @@
+{
+  "name": "EggStore",
+  "short_name": "EggStore",
+  "description": "EggStore is on the way!",
+  "start_url": "https://thom283.github.io/EggStore/EggStore.html",
+  "display": "standalone", 
+  "background_color": "#ffffff",
+  "theme_color": "#1e4374", 
+  "icons": [
+    {
+      "src": "https://thom283.github.io/EggStore/egglogo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
