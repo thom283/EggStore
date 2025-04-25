@@ -1,5 +1,6 @@
-  "name": "NewPipe",
+{
+"name": "NewPipe",
   "v": "5.0+",
   "dec": "Do you like watching videos on YouTube...",
   "download_link": "https://archive.newpipe.net/fdroid/repo/NewPipe_v0.27.6.apk"
-
+}
