@@ -1,0 +1,6 @@
+{
+"name": "Jarvis",
+  "v": "6.0+",
+  "dec": "pls play Jarvis pls cus he is cool",
+  "download_link": "https://archive.newpipe.net/fdroid/repo/NewPipe_v0.27.6.apk"
+}
